@@ -1,4 +1,6 @@
-# Official implementation of  Blind image quality assessment: A fuzzy neural network for opinion score distribution prediction
+# BreadcrumbsBlind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction
+Official implementation of  Blind image quality assessment: A fuzzy neural network for opinion score distribution prediction
+
 This is the **pytorch version**.
 
 You should first modify the path of the database in the file, and then run **mian.py**.
